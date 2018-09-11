@@ -1,0 +1,214 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/imageloader/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "24",
+                        "endOffsets": "314"
+                    },
+                    "to": {
+                        "startLines": "138",
+                        "startColumns": "4",
+                        "startOffsets": "7200",
+                        "endLines": "144",
+                        "endColumns": "24",
+                        "endOffsets": "7459"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/ac0009d6be0bc6766fb1db9e7990a0d2/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "153",
+                        "startColumns": "4",
+                        "startOffsets": "7975",
+                        "endColumns": "42",
+                        "endOffsets": "8013"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "10,11,14,16,148,149,150,151,152,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,178,179,180,181,182,183,184,185,187,208,231,232,237,240,245,250,251",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "527,596,819,950,7634,7704,7772,7844,7914,8412,8473,8534,8596,8660,8722,8783,8851,8951,9011,9077,9150,9219,9276,9328,9458,9530,9606,9641,9676,9726,9760,9795,9890,10892,12094,12211,12478,12771,13038,13374,13446",
+                        "endLines": "10,11,14,16,148,149,150,151,152,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,178,179,180,181,182,183,184,185,187,208,231,235,237,243,245,250,251",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "591,654,872,1019,7699,7767,7839,7909,7970,8468,8529,8591,8655,8717,8778,8846,8946,9006,9072,9145,9214,9271,9323,9385,9525,9601,9636,9671,9721,9755,9790,9825,9955,10958,12206,12407,12583,12967,13162,13441,13508"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "210,211,227",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "11014,11070,11904",
+                        "endLines": "210,211,230",
+                        "endColumns": "55,101,12",
+                        "endOffsets": "11065,11167,12089"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f6e86853454f65db5647be0ffeaa40b6/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "12,13,15,186,236,238,239,244,246",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "659,748,877,9830,12412,12588,12710,12972,13167",
+                        "endColumns": "88,70,72,59,65,121,60,65,66",
+                        "endOffsets": "743,814,945,9885,12473,12705,12766,13033,13229"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/values/template-dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "154,157,158,159,160,161,177",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "8018,8195,8238,8282,8327,8370,9390",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "8083,8233,8277,8322,8365,8407,9453"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/7dce73191aeaa9f8647522ae35d9c5fe/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,4,5,6,7,145,146,147,212,219,221,224",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,168,229,291,353,7464,7523,7580,11172,11586,11650,11776",
+                        "endLines": "2,4,5,6,7,145,146,147,218,220,223,226",
+                        "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "102,224,286,348,412,7518,7575,7629,11581,11645,11771,11899"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/values/template-styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "209,247,248,249,252,256",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "10963,13234,13294,13347,13513,13709",
+                        "endLines": "209,247,248,249,255,261",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "11009,13289,13342,13369,13704,13982"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "417,472",
+                        "endColumns": "54,54",
+                        "endOffsets": "467,522"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/values/base-strings.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "188,192",
+                        "startColumns": "4,4",
+                        "startOffsets": "9960,10219",
+                        "endLines": "188,206",
+                        "endColumns": "54,13",
+                        "endOffsets": "10010,10803"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "155,156",
+                        "startColumns": "4,4",
+                        "startOffsets": "8088,8141",
+                        "endColumns": "52,53",
+                        "endOffsets": "8136,8190"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/9caf47656247b1bdb1aeed8715240bb9/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,262",
+                        "startColumns": "4,4",
+                        "startOffsets": "107,13987",
+                        "endLines": "3,264",
+                        "endColumns": "60,12",
+                        "endOffsets": "163,14127"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "189,190,191,207",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "10015,10095,10153,10808",
+                        "endColumns": "79,57,65,83",
+                        "endOffsets": "10090,10148,10214,10887"
+                    }
+                }
+            ]
+        }
+    ]
+}

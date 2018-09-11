@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/values-xlarge/dimens.xml",
+                    "from": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "663,716",
+                        "endColumns": "52,53",
+                        "endOffsets": "711,765"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,108",
+                        "endColumns": "52,53",
+                        "endOffsets": "103,157"
+                    }
+                }
+            ]
+        }
+    ]
+}

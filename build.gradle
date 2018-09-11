@@ -1,0 +1,45 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+
+    ext.kotlin_version = '1.2.60'
+
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        maven { url 'https://maven.google.com' }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.0-rc02'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
+//        classpath 'com.google.gms:google-services:3.0.0'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        maven { url 'https://maven.google.com' }
+        maven { url "http://47.98.221.180:8081/repository/maven-releases/" }
+        maven { url "http://47.98.221.180:8081/repository/maven-snapshots/" }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+
+ext {
+    //下面四个不能直接配置到properities里面，比较奇怪，应该是AS的bug
+    compileSdkVersion = 27
+    buildToolsVersion = "28.0.2"
+    minSdkVersion = 21
+    //不要随意更改target，会出现奇怪的问题，比如：融云会收不到消息等
+    targetSdkVersion = 27
+}

@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/values-v11/template-styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "650",
+                        "endColumns": "65",
+                        "endOffsets": "711"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "400",
+                        "endColumns": "64",
+                        "endOffsets": "460"
+                    }
+                },
+                {
+                    "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "19,25,27",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "663,965,1011",
+                        "endLines": "23,25,29",
+                        "endColumns": "12,44,12",
+                        "endOffsets": "959,1005,1166"
+                    },
+                    "to": {
+                        "startLines": "2,7,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,356,465",
+                        "endLines": "6,7,11",
+                        "endColumns": "12,43,12",
+                        "endOffsets": "351,395,620"
+                    }
+                }
+            ]
+        }
+    ]
+}

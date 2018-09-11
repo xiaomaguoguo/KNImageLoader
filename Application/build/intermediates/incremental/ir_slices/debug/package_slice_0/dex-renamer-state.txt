@@ -1,0 +1,4 @@
+#Tue Sep 11 11:01:15 CST 2018
+base.0=/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

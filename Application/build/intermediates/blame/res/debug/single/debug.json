@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable_photogrid_list_selector.xml.flat",
+        "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/drawable/photogrid_list_selector.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f6e86853454f65db5647be0ffeaa40b6/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f6e86853454f65db5647be0ffeaa40b6/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_image_detail_pager.xml.flat",
+        "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/layout/image_detail_pager.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-nodpi-v4_empty_photo.png.flat",
+        "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/imageloader/build/intermediates/packaged_res/debug/drawable-nodpi-v4/empty_photo.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_image_detail_fragment.xml.flat",
+        "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/layout/image_detail_fragment.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f6e86853454f65db5647be0ffeaa40b6/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f6e86853454f65db5647be0ffeaa40b6/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f6e86853454f65db5647be0ffeaa40b6/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f6e86853454f65db5647be0ffeaa40b6/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f6e86853454f65db5647be0ffeaa40b6/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f6e86853454f65db5647be0ffeaa40b6/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-hdpi_tile.9.png.flat",
+        "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_image_grid_fragment.xml.flat",
+        "source": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/src/main/res/layout/image_grid_fragment.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f6e86853454f65db5647be0ffeaa40b6/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/KNothing/Documents/ZhiQuYu/ProjectWorkSpace/AndroidDemo/android-DisplayingBitmaps-master/Application/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/KNothing/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9373e191cd2de8e196673ebad40d6bca/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]
